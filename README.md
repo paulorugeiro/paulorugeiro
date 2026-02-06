@@ -1,4 +1,4 @@
-## About me 💬
+## 💬 About me
 
 Hands-on and results-driven Information Security professional with proven expertise in vulnerability management,
 SOC operations, cloud security and GRC.
