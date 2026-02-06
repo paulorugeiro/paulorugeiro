@@ -1,7 +1,15 @@
-## 💬 About Me
-Hands-on and results-driven Information Security professional with proven expertise in vulnerability management, SOC operations, cloud security and GRC.
+## 💬 **About Me**
+Hands-on and results-driven Information Security professional with proven expertise in vulnerability management, SOC operations, cloud security and GRC
 
-Actual Role: Information Security Consultant @ Lidl
+**Actual Role:** Information Security Consultant @ Lidl
 
-## 📫 Contact Me
+## 💻 **Competencies & Skills**
+
+**Tools & Solutions:** Microsoft Security Suite (Sentinel, Defender, Azure AD), Tenable Security Center, Splunk, XM Cyber, SentinelOne
+
+**Standards & Frameworks:** PCI DSS, ISO/IEC 27k-series, ISO 22301, NIS2
+
+**Programming Languages:** Python, Java, C, etc
+
+## 📫 **Contact Me**
 paulorugeiro@gmail.com
