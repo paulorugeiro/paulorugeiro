@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 💬
+
+Hands-on and results-driven Information Security professional with proven expertise in vulnerability management,
+SOC operations, cloud security and GRC.
 
 <!--
 **paulorugeiro/paulorugeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
