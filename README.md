@@ -3,13 +3,17 @@ Hands-on and results-driven Information Security professional with proven expert
 
 **Actual Role:** Information Security Consultant @ Lidl
 
-## 💻 **Competencies & Skills**
+## 🎓 **Certifications**
+ISO/IEC 27001 Implementer
 
+Microsoft Azure Fundamentals AZ900
+
+## 💻 **Competencies & Skills**
 **Tools & Solutions:** Microsoft Security Suite (Sentinel, Defender, Azure AD), Tenable Security Center, Splunk, XM Cyber, SentinelOne
 
 **Standards & Frameworks:** PCI DSS, ISO/IEC 27k-series, ISO 22301, NIS2
 
-**Programming Languages:** Python, Java, C, etc
+**Programming Languages:** Python, Java, C
 
 ## 📫 **Contact Me**
 paulorugeiro@gmail.com
