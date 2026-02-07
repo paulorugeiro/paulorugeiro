@@ -29,5 +29,7 @@ Microsoft Azure Fundamentals AZ900
 -->
 
 ## 📫 **Contact Me**
-[![Gmail](https://img.shields.io/badge/-paulorugeiro@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:paulorugeiro@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-Paulo_Rugeiro-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/paulorugeiro/)](https://www.linkedin.com/in/paulorugeiro/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulorugeiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorugeiro/)
+
+
