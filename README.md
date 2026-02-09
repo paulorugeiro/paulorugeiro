@@ -6,7 +6,7 @@ Hands-on and results-driven Information Security professional with proven expert
 ## 💻 **Competencies & Skills**
 **Tools & Solutions:** Microsoft Security Suite (Sentinel, Defender, Azure AD), Tenable Security Center, Splunk, XM Cyber, SentinelOne
 
-**Standards & Frameworks:** PCI DSS, ISO/IEC 27k-series, ISO 22301, NIS2
+**Standards & Frameworks:** PCI DSS, ISO/IEC (27000-series & 22301), NIS2, NIST (CSF & SP 800-series)
 
 **Programming Languages:** Python, Java, C
 
