@@ -1,19 +1,22 @@
 ## 💬 **About Me**
-Hands-on and results-driven Information Security professional with proven expertise in vulnerability management, SOC operations, cloud security and GRC
+**Certified Information Systems Security Professional (CISSP)** certified with 5+ years of hands-on experience advancing vulnerability management, SOC operations, cloud security, and GRC architectures across consulting and enterprise environments. Expert at translating technical
+vulnerabilities into strategic business risk.
 
-**Present Role:** Information Security Consultant @ Lidl
+**Present Role:** Information Security Officer @ Lidl
 
 ## 💻 **Competencies & Skills**
 **Tools & Solutions:** Microsoft Security Suite (Sentinel, Defender, Entra ID), Tenable Security Center, Splunk, XM Cyber, SentinelOne
 
 **Standards & Frameworks:** PCI DSS, ISO/IEC (27000-series & 22301), NIS2, NIST (CSF & SP 800-series)
 
-**Programming Languages:** Python, Java, C
+**Programming Languages:** Python, Go, Java, C
 
 ## 🎓 **Certifications**
-ISO/IEC 27001 Implementer
+**Certified Information Systems Security Professional (CISSP)** - ISC²
 
-Microsoft Azure Fundamentals AZ900
+**ISO/IEC 27001 Implementer** - PECB
+
+**Azure Fundamentals AZ900** - Microsoft
 
 <!--
 ## Projects
